@@ -1,12 +1,12 @@
 {
-  "name": "socialagi-example",
+  "name": "lola",
   "version": "0.0.1",
   "description": "Example socialagi integration into a website, showcasing Samantha",
   "scripts": {
     "dev": "next dev",
     "lint": "next lint"
   },
-  "author": "SocialAGI",
+  "author": "kubu",
   "license": "ISC",
   "dependencies": {
     "@babel/preset-react": "^7.16.5",
